@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../androidApp.iml" filepath="$PROJECT_DIR$/../androidApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../GPS-Reminder.iml" filepath="$PROJECT_DIR$/../GPS-Reminder.iml" />
     </modules>
   </component>
 </project>
